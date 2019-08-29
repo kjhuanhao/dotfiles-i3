@@ -40,11 +40,18 @@ function icons()
 
 }
 
+function tmux_theme()
+{
+         git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack
+}
+
+
 python_pip
 fonts
 powerline
 compile
 nodejs
 icons
+tmux_theme
 
 

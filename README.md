@@ -1,3 +1,9 @@
+# Results the preview
+
+
+
+
+
 # Installation base environment
 **Archlinux:**
 ```shell
