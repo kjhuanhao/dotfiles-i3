@@ -2,7 +2,7 @@
 **Archlinux:**
 ```shell
 chmod +x deinstall.sh
-./install.sh
+./deinstall.sh
 cd fonts
 chmod +x install.sh
 ./install.sh
@@ -27,5 +27,5 @@ rm -rf fonts
 - ranger
 - [compton](https://github.com/kjhuanhao/compton)
 
-
+> YCM-ERROR-solution: https://kjhuanhao.github.io/2019/08/22/YCM-error/
 
