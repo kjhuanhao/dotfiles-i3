@@ -28,7 +28,11 @@ function compile()
         sudo pacman -S make cmake
 }
 
+function nodejs()
+{
+        sudo pacman -S node npm
 
+}
 
 
 
@@ -36,5 +40,5 @@ python_pip
 fonts
 powerline
 compile
-
+nodejs
 

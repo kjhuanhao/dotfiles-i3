@@ -16,6 +16,8 @@ rm -rf fonts
 - powerline 
 - make
 - cmake 
+- node
+- npm
 
 # Manual will be installed
 
