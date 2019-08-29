@@ -1,0 +1,2 @@
+xmodmap ~/.colemak
+

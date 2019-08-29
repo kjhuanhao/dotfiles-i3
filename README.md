@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles contains vim, i3wm, polybar, fiish and ranger.
+My dotfiles contains nvim, i3wm, polybar, fish and ranger.
