@@ -34,11 +34,17 @@ function nodejs()
 
 }
 
+function icons()
+{
+        yay -S ttf-weather-icons
 
+}
 
 python_pip
 fonts
 powerline
 compile
 nodejs
+icons
+
 
