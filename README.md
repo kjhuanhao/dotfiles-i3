@@ -1,6 +1,7 @@
 # Results the preview
 
-
+![desktop.png](https://cdn.jsdelivr.net/gh/kjhuanhao/dotfiles/.img/desktop.png)
+![i3wm](https://cdn.jsdelivr.net/gh/kjhuanhao/dotfiles/.img/i3.png)
 
 
 
