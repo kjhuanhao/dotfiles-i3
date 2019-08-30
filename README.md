@@ -34,6 +34,7 @@ rm -rf fonts
 - polybar
 - tmux
 - ranger
+- alacritty
 - [compton](https://github.com/kjhuanhao/compton)
 
 > YCM-ERROR-solution: https://kjhuanhao.github.io/2019/08/22/YCM-error/
