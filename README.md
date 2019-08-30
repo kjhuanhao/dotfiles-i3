@@ -51,10 +51,15 @@ sudo pacman -S make cmake nodejs npm
 - alacritty
 - [compton](https://github.com/kjhuanhao/compton)
 
+# Another
+- neofetch
+
 **About some configuration files**
 Some files you need to add a point `.` in front .
 > All fiels about tmux
+<br>
 > Xresources 
+<br>
 > ...
 
 **About nvim**
