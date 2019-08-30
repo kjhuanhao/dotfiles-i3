@@ -49,6 +49,7 @@ sudo pacman -S make cmake nodejs npm
 - compton
 - ranger
 - alacritty
+- lxapperance
 - [compton](https://github.com/kjhuanhao/compton)
 
 # Another
