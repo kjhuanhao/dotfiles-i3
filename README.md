@@ -51,5 +51,12 @@ sudo pacman -S make cmake nodejs npm
 - alacritty
 - [compton](https://github.com/kjhuanhao/compton)
 
+**About some configuration files**
+Some files you need to add a point `.` in front .
+> All fiels about tmux
+> Xresources 
+> ...
+
+**About nvim**
 > YCM-ERROR-solution: https://kjhuanhao.github.io/2019/08/22/YCM-error/
 
