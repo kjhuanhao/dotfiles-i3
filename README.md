@@ -24,7 +24,6 @@ sudo pacman -S yay yaourt
 sudo pacman -S python-pip
 sudo pacman -S ttf-font-awesome wqy-bitmapfont wqy-microhei wqy-zenhei nerd-fonts-complete powerline
 sudo pacman -S make cmake nodejs npm
-yay -S ttf-weather-icons
 ```
 
 ## Install content
@@ -43,9 +42,11 @@ yay -S ttf-weather-icons
 - i3wm
 - nvim
 - rofi
+- feh
 - variety
 - polybar
 - tmux
+- compton
 - ranger
 - alacritty
 - [compton](https://github.com/kjhuanhao/compton)
