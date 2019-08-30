@@ -21,7 +21,6 @@ bindsym $mod+Shift+Return exec alacritty -e ranger
 bindsym $mod+Control+g exec google-chrome-stable
 bindsym $mod+Control+f exec firefox
 bindsym $mod+Control+p exec flameshot gui
-bindsym $mod+Control+u exec /opt/uTools/utools
 bindsym $mod+Control+l exec redshift -l 31:121
 
 
@@ -30,15 +29,13 @@ bindsym $mod+Control+l exec redshift -l 31:121
 
 
 exec --no-startup-id compton --config /$HOME/.config/i3/compton.sh
-exec --no-startup-id nm-applet
-# exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 exec_always --no-startup-id /$HOME/.config/i3/light.sh
 exec_always --no-startup-id /$HOME/.config/polybar/launch.sh
-exec_always --no-startup-id xrandr --output eDP1 --mode 1920x1080
+#exec_always --no-startup-id xrandr --output name --mode 1920x1080
 exec_always --no-startup-id fcitx
 exec --no-startup-id variety
 exec --no-startup-id /usr/lib/geoclue-2.0/demos/agent

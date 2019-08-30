@@ -23,8 +23,8 @@ rm -rf fonts
 sudo pacman -S yay yaourt 
 sudo pacman -S python-pip
 sudo pacman -S ttf-font-awesome wqy-bitmapfont wqy-microhei wqy-zenhei nerd-fonts-complete powerline
-sudo pacman -S ttf-weather-icons
-sudo pacman -S make cmake node npm
+sudo pacman -S make cmake nodejs npm
+yay -S ttf-weather-icons
 ```
 
 ## Install content
@@ -35,7 +35,7 @@ sudo pacman -S make cmake node npm
 - powerline 
 - make
 - cmake 
-- node
+- nodejs
 - npm
 
 # Manual will be installed
