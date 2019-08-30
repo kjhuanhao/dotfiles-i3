@@ -4,7 +4,7 @@
 
 function python_pip()
 {
-        sudo pacman -S python3 python-pip
+        sudo pacman -S python-pip
 
 
 }
@@ -19,8 +19,8 @@ function fonts()
 
 function powerline()
 {
-git clone https://github.com/powerline/fonts.git --depth=1
-echo -e "\033[32m Please install powerline by yourself. It is in fonts . You need  run ./install.sh \033[0m"
+        sudo pacman -S powerline
+        
 }
 
 function compile()
@@ -36,6 +36,7 @@ function nodejs()
 
 function icons()
 {
+        sudo pacman -S yaourt yay
         yay -S ttf-weather-icons
 
 }

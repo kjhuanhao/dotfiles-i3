@@ -6,7 +6,9 @@
 
 
 # Installation base environment
-**Archlinux:**
+**Archlinux: or Other arch releases:**
+
+## Automatic installation
 ```shell
 chmod +x deinstall.sh
 ./deinstall.sh
@@ -16,8 +18,18 @@ chmod +x install.sh
 cd ..
 rm -rf fonts
 ```
+## Manual installation(Advice)
+```shell
+sudo pacman -S yay yaourt 
+sudo pacman -S python-pip
+sudo pacman -S ttf-font-awesome wqy-bitmapfont wqy-microhei wqy-zenhei nerd-fonts-complete powerline
+sudo pacman -S ttf-weather-icons
+sudo pacman -S make cmake node npm
+```
+
 ## Install content
-- python3
+- yaourt
+- yay
 - python-pip
 - some fonts
 - powerline 
