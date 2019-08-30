@@ -43,6 +43,7 @@ yay -S ttf-weather-icons
 - i3wm
 - nvim
 - rofi
+- variety
 - polybar
 - tmux
 - ranger
