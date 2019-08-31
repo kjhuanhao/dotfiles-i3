@@ -58,9 +58,9 @@ sudo pacman -S make cmake nodejs npm
 **About some configuration files**
 Some files you need to add a point `.` in front .
 > All fiels about tmux
-<br>
+> <br>
 > Xresources 
-<br>
+> <br>
 > ...
 
 **About nvim**
