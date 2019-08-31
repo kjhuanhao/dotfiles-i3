@@ -54,8 +54,8 @@ bindsym $mod+d exec --no-startup-id rofi -show run
 # change focus
 bindsym $mod+h focus left
 bindsym $mod+j focus down
-bindsym $mod+u focus up
-bindsym $mod+k focus right
+bindsym $mod+k focus up
+bindsym $mod+l focus right
 
 bindsym $mod+Left focus left
 bindsym $mod+Down focus down
