@@ -1,4 +1,4 @@
-"autocmd Filetype markdown map <leader>w yiWi[<esc>Ea](<esc>pa)
+"utocmd Filetype markdown map <leader>w yiWi[<esc>Ea](<esc>pa)
 autocmd Filetype markdown inoremap \f <Esc>/<++><CR>:nohlsearch<CR>c4l
 autocmd Filetype markdown inoremap \n ---<Enter><Enter>
 autocmd Filetype markdown inoremap \b **** <++><Esc>F*hi
