@@ -95,8 +95,9 @@ font:
     #   - (macOS) Menlo
     #   - (Linux) sourcecodepro 14
     #   - (Windows) Consolas
-    family: monospace
-    style: Regular
+    family: Monaco
+    #monospace
+    style: Blod
 
     # The `style` can be specified to pick a specific face.
     #style: Regular
@@ -107,7 +108,7 @@ font:
     #
     # If the bold family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: monospace
+    family: Monaco
 
     # The `style` can be specified to pick a specific face.
     #style: Bold
