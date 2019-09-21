@@ -23,6 +23,7 @@ rm -rf fonts
 sudo pacman -S yay yaourt 
 sudo pacman -S python-pip
 sudo pacman -S ttf-font-awesome wqy-bitmapfont wqy-microhei wqy-zenhei nerd-fonts-complete powerline
+sudo pacman -S ttf-monaco  # my new font
 sudo pacman -S make cmake nodejs npm
 ```
 

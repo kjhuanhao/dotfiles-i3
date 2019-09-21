@@ -14,6 +14,7 @@ function fonts()
 {
 
         sudo pacman -S ttf-font-awesome wqy-bitmapfont wqy-microhei wqy-zenhei nerd-fonts-complete
+        sudo pacman -S ttf-monaco
 }
 
 
