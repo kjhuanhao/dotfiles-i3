@@ -67,3 +67,5 @@ Some files you need to add a point `.` in front .
 **About nvim**
 > YCM-ERROR-solution: https://kjhuanhao.github.io/2019/08/22/YCM-error/
 
+## About some keys
+[中文文档](ch_readme.md)
