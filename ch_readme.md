@@ -25,7 +25,7 @@
 # tmux按键说明
 > 前缀bind是`Ctrl + a`
 > unbind是`Ctrl + b`
-<br>
+
 | 按键            | 说明         |
 |-----------------|--------------|
 | bind + r        | 重载配置文件 |
@@ -39,7 +39,7 @@
 | bind + ^hjkl     | 调整面板大小 |
 
 # neovim按键说明
-即将在我的neovim配置文件的[RENAME](https://github.com/kjhuanhao/nvim)说明
+在我的neovim配置文件的[RENAME](https://github.com/kjhuanhao/nvim)说明
 
 # 终端快捷命令
 | 命令 | 说明           |
